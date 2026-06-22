@@ -45,7 +45,7 @@ with st.sidebar:
     st.markdown(
     """
         <div style="display: flex; justify-content: center;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/768px-Google_Calendar_icon_%282020%29.svg.png" 
+            <img src="https://cdn-icons-png.flaticon.com/128/5968/5968499.png" 
             alt="test" style="width:150px; height:auto;">
         </div>
         """,
@@ -65,7 +65,7 @@ with st.sidebar:
 st.markdown(
     """
     <div style="display: flex; align-items: center; justify-content: center;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Google_Calendar_icon_%282020%29.svg/768px-Google_Calendar_icon_%282020%29.svg.png" alt="Calendar Icon" style="width: 40px; margin-right: 10px;">
+        <img src="https://cdn-icons-png.flaticon.com/128/5968/5968499.png" alt="Calendar Icon" style="width: 40px; margin-right: 10px;">
         <h1 style='color: #fee6aa; margin: 0; display: inline;'>Google Calendar Event Extraction</h1>
     </div>
     """,

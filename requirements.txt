@@ -1,3 +1,16 @@
-streamlit==1.39.0
+streamlit==1.40.0
+st-gsheets-connection==0.1.0
 ics==0.7.2
 arrow==1.3.0
+
+python-jobspy==1.1.78
+textract==1.6.5
+nltk
+
+PyPDF2
+python-docx
+openpyxl==3.1.5
+
+textract
+tatsu==5.15.1
+beautifulsoup4>=4.8.0
